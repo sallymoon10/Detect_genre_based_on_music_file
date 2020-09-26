@@ -7,7 +7,7 @@
 - Work completed: Data processing (extracting MFCC and Filterbank features from music), Model training (Gaussian HMM, GMM HMM, Multinomial HMM), Model evaluation (F1, confusion matrix)
 
 
-![Alt text](/assets/forecast_results.png?raw=true=50x50  "Forecasting results on test dataset")
+![Alt text](/assets/results.png?raw=true=50x50  "Forecasting results on test dataset")
 
 ### Dataset:
 - MARSYAS  https://github.com/marsyas/marsyas
